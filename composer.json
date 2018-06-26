@@ -1,5 +1,5 @@
 {
-    "name": "previewtechs/sms-gateway",
+    "name": "sarahman/sms-gateway",
     "description": "SMS Gateway library in PHP. Multiple providers in one library. Happy SMS'ing!",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Shaharia Azam",
             "email": "shaharia.azam@gmail.com"
+        },
+        {
+            "name": "Syed Abidur Rahman",
+            "email": "aabid048@gmail.com"
         }
     ],
     "config": {
